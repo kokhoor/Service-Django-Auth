@@ -1,6 +1,6 @@
 # SimplyScript Service: Django Auth
 
-### This module is responsible to encode and verify django auth password using Java.
+### This service provide functions to encode and verify [django auth](https://docs.djangoproject.com/en/3.2/topics/auth) password using Java.
 
 __Usage:__
 
