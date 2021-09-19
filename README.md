@@ -10,7 +10,7 @@ __Usage:__
 
     Where:
 
-    - password is a string containing password to encode<br><br>
+    - password is a string containing password to encode
 
 2. Encode a password using selected hash:
 
@@ -19,7 +19,7 @@ __Usage:__
    Where:
 
      - password is a string containing password to encode
-     - hash is a string containing hash to use. Currently supported hashers are (pbkdf2_sha256 and pbkdf2_sha1)<br><br>
+     - hash is a string containing hash to use. Currently supported hashers are (pbkdf2_sha256 and pbkdf2_sha1)
 
 3. Verify that a password is similar to an encoded password:
 
